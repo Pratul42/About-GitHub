@@ -1,2 +1,2 @@
 # About-GitHub
-Learning of GitHub
+Learnings of GitHub
